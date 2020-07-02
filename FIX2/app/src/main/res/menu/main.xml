@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_reseplain"
+        android:onClick="reseplain"
+        android:orderInCategory="100"
+        android:title="Resep Lainnya"
+        app:showAsAction="never" /><item
+        android:id="@+id/action_tentang"
+        android:onClick="pop"
+        android:orderInCategory="100"
+        android:title="Tentang App"
+        app:showAsAction="never" /><item
+        android:id="@+id/action_privacy"
+        android:onClick="privasi"
+        android:orderInCategory="100"
+        android:title="Privacy Policy"
+        app:showAsAction="never" />
+</menu>

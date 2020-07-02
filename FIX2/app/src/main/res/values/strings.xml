@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Resep Nusantara</string>
+    <string name="s_nav_in">navin</string>
+    <string name="s_error_connection">error</string>
+    <string name="menu">Menu</string>
+
+</resources>
